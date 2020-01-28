@@ -1,0 +1,36 @@
+*{
+    transition: all 3s;
+}
+
+body{
+    background: lightcoral;
+    height: 2000px;
+}
+b {
+color:blueviolet;
+font-weight: 100;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+i{
+ color: cyan;
+ background: darkblue;
+ }
+
+ div {
+color: darkolivegreen;
+position: fixed;
+bottom:0;
+font-weight: bold;
+font-size: 50px;
+text-decoration: underline;
+letter-spacing: 5px;
+margin: 10px;
+border: 5px dashed #a71a33;
+padding: 25px;
+background: aquamarine;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+;
+word-spacing: 10px;
+text-shadow: 2px 2px #ff0000;
+}
